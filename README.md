@@ -2,6 +2,7 @@
 
 *Necyria lucia* is a second piece in a series of interactive taxidermy insects. The metalmark butterfly animates when a viewer trouches its frame. A capacitive touch sensor activates a stepper motor that drives the fluttering mechanism.
 
+![butterfly demo](img/butterfly-short-2.gif)
 ![butterfly demo](img/butterfly-short-1.gif)
 ![butterfly demo](img/butterfly-short.gif)
 
